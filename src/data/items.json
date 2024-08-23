@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "HP Laptop",
+    "price": 250,
+    "image": "https://m.media-amazon.com/images/I/41HaxHdIjjL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mens Tshirt",
+    "price": 75,
+    "image": "https://m.media-amazon.com/images/I/71WBVg0YE8L._SX569_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Iphone 13",
+    "price": 125,
+    "image": "https://m.media-amazon.com/images/I/315vs3rLEZL._SY445_SX342_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "JBL Earpods",
+    "price": 150,
+    "image": "https://m.media-amazon.com/images/I/3182iFqINjL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Redmi TV",
+    "price": 190,
+    "image": "https://m.media-amazon.com/images/I/41J89vk0tyL._SX300_SY300_QL70_FMwebp_.jpg"
+  }
+]
